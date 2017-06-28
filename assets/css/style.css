@@ -92,4 +92,46 @@ section li.fa:before {
 footer {
     text-align: center;
     font-size: .8em;
+    height: 4em;
+    color: #919191;
+    font-family: monospace;
+}
+
+section .ls-icon {
+    text-align: center;
+    padding: 2em 0;
+}
+
+section .ls-icon li {
+    display: inline-block;
+    width: 8em;
+    height: 8em;
+    margin: .3em;
+    text-align: center;
+}
+
+section .ls-icon li:hover a {
+    color: #212121;
+}
+
+section .ls-icon li a {
+    font-size: 3em;
+    width: 1em;
+    height: 1em;
+    line-height: 1em;
+    color: #919191;
+    display: inline-block;
+    clear: left;
+    text-decoration: none;
+}
+
+section .ls-icon li label {
+    display: none;
+    clear: left;
+    width: 100%;
+    display: inline-block;
+    margin: 1em 0;
+    padding: .5em;
+    border-radius: .2em;
+    color: #919191;
 }
