@@ -1,0 +1,74 @@
+[
+    [
+        "XXXXXXXXXX",
+        "X        X",
+        "X P      X",
+        "X    C C X",
+        "XXXXXXXXXX"
+    ],
+    [
+        "XXXXXXXXXX",
+        "X        X",
+        "X P      X",
+        "X      C X",
+        "XXXXXTXXXX"
+    ],
+    [
+        "XXXXXXXXXX",
+        "X        X",
+        "X P      X",
+        "X       CX",
+        "XXXXXLLXXX",
+        "    XXXX  "
+    ],
+    [
+        "XXXXXXXXXX",
+        "X        X",
+        "X P      X",
+        "X       CX",
+        "XXXXTLLXXX",
+        "    XXXX  "
+    ],
+    [
+        "XXXXXXXXXX",
+        "X        X",
+        "X        X",
+        "X     CC X",
+        "X P   XX X",
+        "X    TLLTX",
+        "XXXXXXXXXX"
+    ],
+    [
+        "XXXXXXXXXX",
+        "X        X",
+        "X      CTX",
+        "X      XXX",
+        "X   X    X",
+        "X P      X",
+        "X        X",
+        "XXXXXLLXXX",
+        "    XXXX  "
+    ],
+    [
+        "XXXXXXXXXXXXXXXXXXXX",
+        "X                  X",
+        "XC          C      X",
+        "XX      C   XX     X",
+        "X      XX          X",
+        "X    C  X          X",
+        "X P XXX X C    X   X",
+        "X       X XX   XXC X",
+        "XXXXXXXXXXXXXXXXXXXX"
+    ],
+    [
+        "XXXXXXXXXXXXXXXXXXXX",
+        "X                  X",
+        "X             C    X",
+        "X  CC        C C   X",
+        "X C  C C  C C   C  X",
+        "XP    C CC C     C X",
+        "XX    X    X     X X",
+        "XLLLLLLLLLLLLLLLLLLX",
+        "XXXXXXXXXXXXXXXXXXXX"
+    ]
+]
