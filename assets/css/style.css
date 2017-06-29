@@ -20,7 +20,7 @@ body, p, input, i, b {
 }
 
 header, section, footer {
-    max-width: 960px;
+    max-width: 53em;
     margin: 0 auto;
     padding: 0 1em;
 }
@@ -134,4 +134,44 @@ section .ls-icon li label {
     padding: .5em;
     border-radius: .2em;
     color: #919191;
+}
+
+.thumb-list {
+    display: block;
+    overflow: hidden;
+    padding: 0 2em;
+}
+
+.thumb-list .item {
+    display: block;
+    width: 12em;
+    height: 16em;
+    overflow: hidden;
+    position: relative;
+    margin: 1em;
+    float: left;
+}
+
+.thumb-list .item .img-container {
+    width: 100%;
+    height: 100%;
+}
+
+.thumb-list .item .img-container img {
+    width: auto;
+    height: 100%;
+    left: -50%;
+}
+
+.thumb-list .item .title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 2em;
+    line-height: 2em;
+    padding: 0 .5em;
+    text-align: center;
 }
