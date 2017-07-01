@@ -3,7 +3,7 @@ var bootState = {
     preload: function () {
         game.load.image('background', 'assets/images/background.png');
         game.load.image('loader_bg', 'assets/images/loader_bg.png');
-        game.load.image('loader_cur', 'assets/images/loader_cur.PNG');
+        game.load.image('loader_cur', 'assets/images/loader_cur.png');
     },
     create: function () {
         game.state.start('loader');
