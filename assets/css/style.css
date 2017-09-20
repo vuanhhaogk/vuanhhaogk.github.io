@@ -160,6 +160,21 @@ footer {
     color: #616161;
 }
 
+/********** Code List Class *********/
+.code-list table {
+    width: 100%;
+}
+
+.code-list .code {
+    font-size: 8pt;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+.code-list .code:before {
+    content: '</>'
+}
+
 /********** #message-form **********/
 
 #message-form {
